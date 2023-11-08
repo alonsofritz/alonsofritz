@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h3> 👨🏻‍💻 About me </h3>
-Software developer, gamer and game development enthusiast. 
+Backend developer, gamer and game development enthusiast. 
 I'm currently working on fullstack development, using multiple languages ​​and tools such as: Node.js, Nest.js, JavaScript, TypeScript, Angular, PostgreSQL, MongoDB, Kotlin, Java, among others. 
 Focused on learning and improving my Backend and GoLang skills.
 
