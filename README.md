@@ -20,7 +20,7 @@ Backend developer, gamer and game development enthusiast.
 I'm currently working on fullstack development, using multiple languages ​​and tools such as: Go, Node.js, JavaScript, TypeScript, Angular, PostgreSQL, MongoDB, Kotlin, Java, among others. 
 Focused on learning and improving my Backend and GoLang skills.
 
-- 💼 &nbsp; Working as a Fullstack Developer at [EcoCentauro Sistemas Inteligentes](https://www.linkedin.com/company/ecocentauro-sistemas/)
+- 💼 &nbsp; Working as a Backend Developer at [EcoCentauro Sistemas Inteligentes](https://www.linkedin.com/company/ecocentauro-sistemas/)
 
 <br/>
 
