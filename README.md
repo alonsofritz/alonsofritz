@@ -20,7 +20,7 @@ Backend developer, gamer and game development enthusiast.
 I'm currently working on fullstack development, using multiple languages ​​and tools such as: Go, Node.js, JavaScript, TypeScript, Angular, PostgreSQL, MongoDB, Kotlin, Java, among others. 
 Focused on learning and improving my Backend and GoLang skills.
 
-- 💼 &nbsp; Working as Backend Developer at [Sovis](https://sovis.com.br/)
+- 💼 &nbsp; Working as Mid-Level Fullstack Developer at [Sovis](https://sovis.com.br/)
 
 <br/>
 
