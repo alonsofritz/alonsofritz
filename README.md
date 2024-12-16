@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h3> 👨🏻‍💻 About me </h3>
 Backend developer, gamer and game development enthusiast. 
-I'm currently working on fullstack development, using multiple languages ​​and tools such as: Go, Node.js, JavaScript, TypeScript, Angular, PostgreSQL, MongoDB, Kotlin, Java, among others. 
+I'm currently working on fullstack development, using multiple languages ​​and tools such as: Java, Kotlin, Go, Node.js, JavaScript, TypeScript, Angular, PostgreSQL, MongoDB, among others. 
 Focused on learning and improving my Backend and Java skills.
 
 - 💼 &nbsp; Working as Mid-Level Fullstack Developer at [Sovis](https://sovis.com.br/)
